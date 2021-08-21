@@ -1,7 +1,8 @@
 ## Inspirations
 * https://fastlifehacks.com/david-sinclair-supplements/
 * https://www.neurohacker.com/qualia-life-pilot-study
-* 
+* https://www.insidetracker.com/
+*
 
 ## TODO
 - find a basic routine
